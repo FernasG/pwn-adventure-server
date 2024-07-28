@@ -1,0 +1,3 @@
+ARG UBUNTU_VERSION=18.04
+
+FROM docker.io/ubuntu:${UBUNTU_VERSION}
